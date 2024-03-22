@@ -1,0 +1,49 @@
+/* style.css */
+
+/* Apply a background color to the body */
+body {
+  background-color: #f0f0f0;
+}
+
+/* Style the header text */
+h1 {
+  font-size: 24px;
+  color: #333;
+  margin: 20px 0;
+}
+
+/* Style the buttons */
+.btn {
+  padding: 10px 20px;
+  text-decoration: none;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.btn-warning {
+  background-color: #ffc107;
+}
+
+.btn-danger {
+  background-color: #dc3545;
+}
+
+/* Style the links for navigating to other pages */
+.tiedot {
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 3px;
+}
+
+/* Style the iframe */
+iframe {
+  width: 60%;
+  height: 500px;
+  border: none;
+}
